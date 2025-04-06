@@ -1,4 +1,4 @@
-# GROW R502-A Fingerprint Rust
+# GROW R502-A Fingerprint Rust and Python 
 
 
 This project provides a Rust-based implementation for managing a fingerprint sensor using the `serialport` crate. It enables users to enroll, verify, list, and delete fingerprints stored on the sensor. Communication with the sensor is achieved over a serial connection using a custom packet-based protocol.
