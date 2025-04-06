@@ -1,0 +1,15 @@
+[package]
+name = "GROW_R502-A_fingerprint_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mithilesh <mitumithilesh@gmail.com>"]
+description = "A Rust project for fingerprint processing."
+license = "MIT"
+repository = "https://github.com/kingsmen732/fingerprint_rust"
+keywords = ["fingerprint", "rust", "serialport","Growr502a"]
+categories = ["embedded", "hardware-support","fingerprint"]
+readme = "README.md"
+homepage = "https://github.com/kingsmen732/fingerprint_rust"
+
+[dependencies]
+serialport = "4.0"
